@@ -1,5 +1,4 @@
 [![API Documentation](https://godoc.org/github.com/pascaldekloe/nbio?status.svg)](https://godoc.org/github.com/pascaldekloe/nbio)
-[![Build Report](https://cover.run/go/github.com/pascaldekloe/nbio.svg)](https://cover.run/go/github.com/pascaldekloe/nbio)
 
 Non-blocking I/O library for the Go programming language.
 
